@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskar-7770/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanskar-7770/DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
