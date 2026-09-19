@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanskar-7770/DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/sanskar-7770/DSA-journey/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/sanskar-7770/DSA-journey/tree/master/1539-kth-missing-positive-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskar-7770/DSA-journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanskar-7770/DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/sanskar-7770/DSA-journey/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/sanskar-7770/DSA-journey/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
