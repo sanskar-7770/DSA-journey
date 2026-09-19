@@ -3,7 +3,7 @@ public:
     int findKthPositive(vector<int>& arr, int k) {
         int s=0;
         int e=arr.size()-1;
-        while(s<=e){
+        while(s<=e){//streak
             int mid=s+(e-s)/2;
             int missing=arr[mid]-(mid+1);
             if(missing<k){
