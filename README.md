@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sanskar-7770/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskar-7770/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskar-7770/DSA-journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/sanskar-7770/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskar-7770/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskar-7770/DSA-journey/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sanskar-7770/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
