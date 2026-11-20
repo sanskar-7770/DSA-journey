@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanskar-7770/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
+| [1094-car-pooling](https://github.com/sanskar-7770/DSA-journey/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanskar-7770/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
+| [1094-car-pooling](https://github.com/sanskar-7770/DSA-journey/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanskar-7770/DSA-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/sanskar-7770/DSA-journey/tree/master/0875-koko-eating-bananas) |
+| [1094-car-pooling](https://github.com/sanskar-7770/DSA-journey/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanskar-7770/DSA-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/sanskar-7770/DSA-journey/tree/master/1539-kth-missing-positive-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskar-7770/DSA-journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/sanskar-7770/DSA-journey/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanskar-7770/DSA-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
@@ -104,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sanskar-7770/DSA-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/sanskar-7770/DSA-journey/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
